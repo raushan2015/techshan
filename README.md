@@ -1,13 +1,13 @@
 # TECHSHAN AI Office
 
-A control panel for your own Linux server — with a team of AI agents built in. It runs on your machine,
-and your data stays there.
+A server management panel for your own Linux server: manage almost everything on it from your browser instead of
+over SSH. An AI office comes with it. It runs on your machine, and your data stays there.
 
 **[techshan.app](https://techshan.app)** · 30-day trial with everything · then $20 once per server, no subscription
 
 ## What it does
 
-**The server panel** — everything you would otherwise do over SSH, in pages that show what is really on the machine.
+**Server management** — almost everything you would otherwise do over SSH, in pages that show what is really on the machine.
 
 | | |
 |---|---|
@@ -18,7 +18,8 @@ and your data stays there.
 | **Storage** | Drives, health, pools, encryption, network drives and NFS exports. |
 | **Server settings** | Network, firewall, users, services, packages and updates, scheduled jobs, certificates, backups, logs and a terminal. |
 
-**The AI office** — agents that take a goal, split the work and report back, using the models you choose.
+**Plus: an AI office** — AI agents and AI chat in the same panel, using the models you choose. This part is still
+being built; it grows with every update.
 
 - **A team of agents.** Each workspace starts with a team of seven AI agents led by an AI CEO. Give a goal; the team splits it into tasks and works on them.
 - **Your models.** Connect a provider with an API key, or sign in with a plan you already pay for.
